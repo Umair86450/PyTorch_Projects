@@ -6,7 +6,7 @@ This project aims to build a linear regression model to predict the amount of ti
 ## Dataset
 The dataset used in this project includes the following features:
 
-- **Total Bill Amount:** The total amount of the bill, including tax and excluding tip.
+- **Total Bill Amount:** The total amount of the bill, including tax and excluding tips.
 - **Tips:** The amount of tip received by the server.
 
 ## Project Structure
